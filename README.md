@@ -25,13 +25,7 @@ Aplicação React + Vite (MUI v9) do sistema EWMS. Consome a API REST do `ewms-b
 
 ## Login de demonstração
 
-Os botões de "acesso rápido" na tela de login já preenchem essas credenciais (criadas pelo seed do backend):
-
-- super@ewms.com / super123 (SuperUsuario)
-- admin@ewms.com / admin123 (Administrador)
-- lider@ewms.com / lider123 (Liderança)
-- fornecedor@ewms.com / fornecedor123 (Fornecedor)
-- usuario@ewms.com / usuario123 (Usuário)
+Os botões de "acesso rápido" na tela de login preenchem as credenciais dos 5 perfis de teste criados pelo seed do backend (SuperUsuario, Administrador, Liderança, Fornecedor, Usuário). As senhas não são publicadas neste README por segurança — consulte quem administra o ambiente.
 
 ## Outros comandos
 
